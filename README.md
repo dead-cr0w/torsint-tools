@@ -31,5 +31,5 @@ chmod +x install_torsint.sh
 
 Or use curl:
 ```bash
-curl -fsSL https://raw.githubusercontent.com/torsint-tools/master/torsint.sh | sudo bash
+curl -fsSL https://raw.githubusercontent.com/torsint-tools/main/torsint.sh | sudo bash
 ```
